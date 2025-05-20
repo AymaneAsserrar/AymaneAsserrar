@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Aymane Asserrar
 
-<!--
-**AymaneAsserrar/AymaneAsserrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Electronics Engineering Student  
+Currently pursuing a double degree in Computer Science at **Télécom Saint-Étienne**, after earning my Engineering Degree in **Electronic Systems and Automation** from ENSA Tanger. I'm passionate about **Data Science**, **DevOps**, and **Software Engineering**, and I enjoy solving real-world problems through code and automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+| Main | Secondary | Environments | Soft Skills |
+|------|-----------|--------------|-------------|
+| Python (Pandas, ML, Flask) | Java, JavaScript | Linux, Docker, GitLab CI/CD | Communication, Adaptability |
+| SQL, MongoDB | C/C++, Bash, GraphQL | GCP, Azure IoT Hub | Teamwork, Curiosity |
+
+---
+
+## 🚀 Main Projects
+
+- [📈 Real-Time Server Dashboard](https://github.com/AymaneAsserrar/PrInterfaceAdmin-UI) – Monitoring & alerting using Flask, Plotly, Psutil.
+- [🤖 Brand Detector App](https://github.com/AymaneAsserrar) – Logo similarity detection using AI & Flask.
+- [💬 Webchat App](https://github.com/AymaneAsserrar/MyChatApp) – Real-time chat with private rooms (Node.js + WebSockets).
+- [📚 Comic Manager](https://github.com/AymaneAsserrar/MyComicApp) – Desktop app for comics with recommendation system.
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [aymane.asserrar@outlook.fr](mailto:aymane.asserrar@outlook.fr)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aymane-asserrar/)  
+- 💻 [GitHub](https://github.com/AymaneAsserrar)
+
+---
+
+## 🏆 Certifications
+
+- CCNA 1 & 2 – Cisco Networking Academy  
+- TOEIC (B2) – English Communication  
+- Ongoing self-training in MLOps, Cloud, and DevSecOps.
+
+---
+
+## 🎯 Activities
+
+| Activity | Description |
+|----------|-------------|
+| Coding | Building full-stack apps and experimenting with ML. |
+| Robotics Teaching | Led robotics classes for kids aged 10–14. |
+| Open Source | Sharing personal projects and utilities. |
+| Music & Football | Piano, singing, and competitive FIFA RP. |
+
+---
+
+🌟 *Feel free to connect, collaborate, or just say hello!*
