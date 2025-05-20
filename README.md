@@ -1,7 +1,6 @@
-<div align="center">
 
 # Hi 👋, I'm Aymane Asserrar
-
+<div align="center">
 🎓 <strong>Computer Science & Electronics Engineering Student</strong>  
 Double degree student at <strong>Télécom Saint-Étienne</strong>  
 Formerly at <strong>ENSA Tanger</strong> – Specialized in Electronic Systems & Automation  
