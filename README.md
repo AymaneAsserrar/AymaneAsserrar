@@ -6,48 +6,32 @@
 Double degree student at <strong>Télécom Saint-Étienne</strong>  
 Formerly at <strong>ENSA Tanger</strong> – Specialized in Electronic Systems & Automation  
 Passionate about <strong>Data Science, DevOps</strong>, and <strong>Software Engineering</strong>
-
+</div>
 ---
 
 ## 🛠 Tech Stack
 
-<table>
-  <tr>
-    <th>Main</th>
-    <th>Secondary</th>
-    <th>Environments</th>
-    <th>Soft Skills</th>
-  </tr>
-  <tr>
-    <td>Python (Pandas, ML, Flask)</td>
-    <td>Java, JavaScript</td>
-    <td>Linux, Docker, GitLab CI/CD</td>
-    <td>Communication, Adaptability</td>
-  </tr>
-  <tr>
-    <td>SQL, MongoDB</td>
-    <td>C/C++, Bash, GraphQL</td>
-    <td>GCP, Azure IoT Hub</td>
-    <td>Teamwork, Curiosity</td>
-  </tr>
-</table>
+| Main | Secondary | Environments | Soft Skills |
+|------|-----------|--------------|-------------|
+| Python (Pandas, ML, Flask) | Java, JavaScript | Linux, Docker, GitLab CI/CD | Communication, Adaptability |
+| SQL, MongoDB | C/C++, Bash, GraphQL | GCP, Azure IoT Hub | Teamwork, Curiosity |
 
 ---
 
 ## 🚀 Main Projects
 
-- 🔹 <a href="https://github.com/AymaneAsserrar/PrInterfaceAdmin-UI">Real-Time Server Dashboard</a> – Flask, Plotly, Psutil  
-- 🔹 Brand Detector App – AI + Flask logo similarity detection  
-- 🔹 <a href="https://github.com/AymaneAsserrar/MyChatApp">Webchat App</a> – Node.js, Vue, WebSockets  
-- 🔹 <a href="https://github.com/AymaneAsserrar/MyComicApp">Comic Manager</a> – Java, Swing, SQLite, API integration
+- [📈 Real-Time Server Dashboard](https://github.com/AymaneAsserrar/PrInterfaceAdmin-UI) – Monitoring & alerting using Flask, Plotly, Psutil.
+- [🤖 Brand Detector App](https://github.com/AymaneAsserrar) – Logo similarity detection using AI & Flask.
+- [💬 Webchat App](https://github.com/AymaneAsserrar/MyChatApp) – Real-time chat with private rooms (Node.js + WebSockets).
+- [📚 Comic Manager](https://github.com/AymaneAsserrar/MyComicApp) – Desktop app for comics with recommendation system.
 
 ---
 
 ## 📫 Contact Me
 
-📧 <a href="mailto:aymane.asserrar@outlook.fr">aymane.asserrar@outlook.fr</a>  
-🔗 <a href="https://www.linkedin.com/in/aymane-asserrar/">LinkedIn</a>  
-💻 <a href="https://github.com/AymaneAsserrar">GitHub</a>
+- 📧 Email: [aymane.asserrar@outlook.fr](mailto:aymane.asserrar@outlook.fr)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aymane-asserrar/)  
+- 💻 [GitHub](https://github.com/AymaneAsserrar)
 
 ---
 
@@ -55,37 +39,19 @@ Passionate about <strong>Data Science, DevOps</strong>, and <strong>Software Eng
 
 - CCNA 1 & 2 – Cisco Networking Academy  
 - TOEIC (B2) – English Communication  
-- Self-training in MLOps, Cloud, and DevSecOps
+- Ongoing self-training in MLOps, Cloud, and DevSecOps.
 
 ---
 
 ## 🎯 Activities
 
-<table>
-  <tr>
-    <th>Activity</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>Coding</td>
-    <td>Building full-stack apps and experimenting with ML</td>
-  </tr>
-  <tr>
-    <td>Robotics Teaching</td>
-    <td>Led classes for kids aged 10–14</td>
-  </tr>
-  <tr>
-    <td>Open Source</td>
-    <td>Sharing utilities and AI projects</td>
-  </tr>
-  <tr>
-    <td>Music & Football</td>
-    <td>Piano, singing, GTA RP & FIFA</td>
-  </tr>
-</table>
+| Activity | Description |
+|----------|-------------|
+| Coding | Building full-stack apps and experimenting with ML. |
+| Robotics Teaching | Led robotics classes for kids aged 10–14. |
+| Open Source | Sharing personal projects and utilities. |
+| Music & Football | Piano, singing, and competitive FIFA RP. |
 
 ---
 
-🌟 <strong>Feel free to connect, collaborate, or just say hello!</strong>
-
-</div>
+🌟 *Feel free to connect, collaborate, or just say hello!*
