@@ -37,6 +37,7 @@ My passion lies in creating robust, scalable applications that integrate **Artif
 
 | Project Name | Technologies | Description |
 | :--- | :--- | :--- |
+| **[NetworkingAI]** | LLM, RAG, Batfish, Langchain | LLM utilisant le RAG pour produire des commandes de configuration vérifiées par Batfish. |
 | **[Slice Defender - 3D Interactive Game]** | C++, Qt, OpenGL, OpenCV | Multimedia game featuring webcam hand motion detection and dynamic 3D scenes. |
 | **[Chat Web Application]** | Docker, Python, WebSocket | Real-time chat app with multiple rooms and private messaging features. |
 | **[Add another key project here]** | [Tech 1, Tech 2] | [Brief description of the project.] |
